@@ -23,6 +23,10 @@ license which can be found at
 http://www.opensource.org/licenses/bsd-license.php.
 The pagila database is made available under this license as well.
 
+## Table Diagram
+
+<img width="1447" alt="image" src="https://user-images.githubusercontent.com/392778/168631796-47d5d3a1-f7c6-4afc-9f79-353008436a46.png">
+
 ## EXAMPLE QUERY
 
 Find late rentals:
